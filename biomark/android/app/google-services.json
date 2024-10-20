@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "456810614644",
+    "project_id": "biomark-58979",
+    "storage_bucket": "biomark-58979.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456810614644:android:140daa82b2af4dd195e621",
+        "android_client_info": {
+          "package_name": "com.example.biomark"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH0NJDXfzMjzp5QZ6PKi43AgUvxC_pJYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
